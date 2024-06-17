@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "sass": "^1.77.5"
+  },
+  "name": "html-css-reproducir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass ./src/sass/styles.scss ./public/css/styles.css",
+    "sass-w": "sass --watch ./src/sass/styles.scss ./public/css/styles.css"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConchyP/HTML-CSS-Reproducir.git"
+  },
+  "author": "Conchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConchyP/HTML-CSS-Reproducir/issues"
+  },
+  "homepage": "https://github.com/ConchyP/HTML-CSS-Reproducir#readme",
+  "description": ""
+}
