@@ -10,6 +10,6 @@ Using javascript make them appear and disappear one at a time. WARNING: They sho
 
 ## Github pages
 
-https://github.com/ConchyP/HTML-CSS-Reproducir/deployments/github-pages
+https://conchyp.github.io/HTML-CSS-Reproducir/
 
 <img src="public/assets/images/Captura de pantalla 2024-06-21 010731.png">
