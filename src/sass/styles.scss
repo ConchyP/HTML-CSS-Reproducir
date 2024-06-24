@@ -13,9 +13,11 @@ main{
     
  }
     .container {
+        max-width: 1200px;
         display:flex;  
         flex-wrap: wrap;
         gap: 1%;
+
       
       .square1 {
 
@@ -29,6 +31,7 @@ main{
         background-color: orangered;
         width: 270px;
         height: 120px;
+        margin-bottom: 1%;
         
       }
 
@@ -36,12 +39,16 @@ main{
         background-color: yellow;
         width: 270px;
         height: 120px;
+        margin-bottom: 1%;
+
       }
 
       .square4 {
         background-color: green;
         width: 270px;
         height: 120px;
+        margin-bottom: 1%;
+
       }
     }
 
@@ -50,24 +57,31 @@ main{
         width: 270px;
         height: 120px;
         margin-bottom: 1%;
+     
       }
 
       .square6 {
         background-color: rgb(55, 29, 201);
         width: 270px;
         height: 120px;
+        margin-bottom: 1%;
+
       }
 
       .square7 {
         background-color: blueviolet;
         width: 270px;
         height: 120px;
+        margin-bottom: 1%;
+
       }
 
       .square8 {
         background-color: rgb(234, 8, 155);
         width: 270px;
         height: 120px;
+        margin-bottom: 1%;
+
       }
     }
       .square9 {
@@ -75,18 +89,22 @@ main{
         width: 270px;
         height: 120px;
         margin-bottom: 1%;
+
       }
 
       .square10 {
         background-color: rgb(31, 175, 60);
         width: 270px;
         height: 120px;
+        margin-bottom: 1%;
+
       }
 
       .square11 {
         background-color:rgb(8, 234, 174);
         width: 270px;
         height: 120px;
+      
       }
 
       .square12 {

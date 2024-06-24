@@ -8,6 +8,7 @@ main img {
   margin-top: 10%;
 }
 main .container {
+  max-width: 1200px;
   display: flex;
   flex-wrap: wrap;
   gap: 1%;
@@ -22,16 +23,19 @@ main .container .square2 {
   background-color: orangered;
   width: 270px;
   height: 120px;
+  margin-bottom: 1%;
 }
 main .container .square3 {
   background-color: yellow;
   width: 270px;
   height: 120px;
+  margin-bottom: 1%;
 }
 main .container .square4 {
   background-color: green;
   width: 270px;
   height: 120px;
+  margin-bottom: 1%;
 }
 main .square5 {
   background-color: blue;
@@ -43,16 +47,19 @@ main .square6 {
   background-color: rgb(55, 29, 201);
   width: 270px;
   height: 120px;
+  margin-bottom: 1%;
 }
 main .square7 {
   background-color: blueviolet;
   width: 270px;
   height: 120px;
+  margin-bottom: 1%;
 }
 main .square8 {
   background-color: rgb(234, 8, 155);
   width: 270px;
   height: 120px;
+  margin-bottom: 1%;
 }
 
 .square9 {
@@ -66,6 +73,7 @@ main .square8 {
   background-color: rgb(31, 175, 60);
   width: 270px;
   height: 120px;
+  margin-bottom: 1%;
 }
 
 .square11 {
